@@ -1,16 +1,16 @@
 <!-- ========================= BANNER ========================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:1a1033,100:2a0f1f&text=Mykyta%20Alekseev&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=Senior%20Full-Stack%20Software%20Engineer&descSize=18&descAlignY=62&descColor=8b949e&animation=fadeIn" alt="Mykyta Alekseev" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f1410,50:1f2a1d,100:2e2d1a&text=Mykyta%20Alekseev&fontColor=EEEBDC&fontSize=58&fontAlignY=40&desc=Senior%20Full-Stack%20Software%20Engineer&descSize=18&descAlignY=62&descColor=A3B18A&animation=fadeIn" alt="Mykyta Alekseev" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=7C8CF8&center=true&vCenter=true&width=620&lines=.NET+%C2%B7+Angular+%C2%B7+React+%C2%B7+Node.js+%C2%B7+TypeScript;Backend+%C2%B7+Frontend+%C2%B7+AI+integrations;Building+things+that+matter." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=B8C29A&center=true&vCenter=true&width=620&lines=.NET+%C2%B7+Angular+%C2%B7+React+%C2%B7+Node.js+%C2%B7+TypeScript;Backend+%C2%B7+Frontend+%C2%B7+AI+integrations;Building+things+that+matter." alt="typing" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/-fullstack-0d1117?style=for-the-badge&labelColor=0d1117&color=161b22" />
-<img src="https://img.shields.io/badge/-fintech-0d1117?style=for-the-badge&labelColor=0d1117&color=161b22" />
-<img src="https://img.shields.io/badge/-healthtech-0d1117?style=for-the-badge&labelColor=0d1117&color=161b22" />
-<img src="https://img.shields.io/badge/-saas-0d1117?style=for-the-badge&labelColor=0d1117&color=161b22" />
+<img src="https://img.shields.io/badge/-fullstack-1c2419?style=for-the-badge&labelColor=1c2419&color=1c2419" />
+<img src="https://img.shields.io/badge/-fintech-1c2419?style=for-the-badge&labelColor=1c2419&color=1c2419" />
+<img src="https://img.shields.io/badge/-healthtech-1c2419?style=for-the-badge&labelColor=1c2419&color=1c2419" />
+<img src="https://img.shields.io/badge/-saas-1c2419?style=for-the-badge&labelColor=1c2419&color=1c2419" />
 
 </div>
 
@@ -54,20 +54,20 @@
 ### `stack`
 
 <p>
-  <img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=7C8CF8" />
-  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=a179dc" />
-  <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=dd0031" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+  <img src="https://img.shields.io/badge/.NET-1c2419?style=for-the-badge&logo=dotnet&logoColor=A3B18A" />
+  <img src="https://img.shields.io/badge/C%23-1c2419?style=for-the-badge&logo=csharp&logoColor=A3B18A" />
+  <img src="https://img.shields.io/badge/Angular-1c2419?style=for-the-badge&logo=angular&logoColor=A3B18A" />
+  <img src="https://img.shields.io/badge/React-1c2419?style=for-the-badge&logo=react&logoColor=A3B18A" />
+  <img src="https://img.shields.io/badge/Node.js-1c2419?style=for-the-badge&logo=nodedotjs&logoColor=A3B18A" />
+  <img src="https://img.shields.io/badge/TypeScript-1c2419?style=for-the-badge&logo=typescript&logoColor=A3B18A" />
   <br/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088ff" />
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff9900" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032" />
+  <img src="https://img.shields.io/badge/JavaScript-1c2419?style=for-the-badge&logo=javascript&logoColor=B5A97A" />
+  <img src="https://img.shields.io/badge/SQL%20Server-1c2419?style=for-the-badge&logo=microsoftsqlserver&logoColor=B5A97A" />
+  <img src="https://img.shields.io/badge/MySQL-1c2419?style=for-the-badge&logo=mysql&logoColor=B5A97A" />
+  <img src="https://img.shields.io/badge/Docker-1c2419?style=for-the-badge&logo=docker&logoColor=B5A97A" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-1c2419?style=for-the-badge&logo=githubactions&logoColor=B5A97A" />
+  <img src="https://img.shields.io/badge/AWS-1c2419?style=for-the-badge&logo=amazonaws&logoColor=B5A97A" />
+  <img src="https://img.shields.io/badge/Git-1c2419?style=for-the-badge&logo=git&logoColor=B5A97A" />
 </p>
 
 </div>
@@ -106,12 +106,12 @@
 
 ### `connect`
 
-<a href="https://github.com/myyykyyytaaa"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mykyta-alekseev/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>
-<a href="mailto:alekseevmykyta06@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>
+<a href="https://github.com/myyykyyytaaa"><img src="https://img.shields.io/badge/GitHub-1c2419?style=for-the-badge&logo=github&logoColor=A3B18A" /></a>
+<a href="https://www.linkedin.com/in/mykyta-alekseev/"><img src="https://img.shields.io/badge/LinkedIn-1c2419?style=for-the-badge&logo=linkedin&logoColor=A3B18A" /></a>
+<a href="mailto:alekseevmykyta06@gmail.com"><img src="https://img.shields.io/badge/Email-1c2419?style=for-the-badge&logo=gmail&logoColor=A3B18A" /></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:1a1033,100:2a0f1f&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f1410,50:1f2a1d,100:2e2d1a&section=footer" />
 
 </div>
